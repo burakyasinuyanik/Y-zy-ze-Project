@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Program/context.cs
+/Program/Migrations/20240923201435_inital.cs
+/Program/Migrations/20240924191055_düzenleme.cs
+/Program/Migrations/contextModelSnapshot.cs
+/Program/Datas/Data.cs
+/Program/context.cs
+/Program/Datas/Data.cs
+/Program/Migrations/20240923201435_inital.cs
+/Program/Migrations/20240924191055_düzenleme.cs
+/Program/Migrations/contextModelSnapshot.cs
