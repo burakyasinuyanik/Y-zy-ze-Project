@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Program/Migrations/20240923201435_inital.Designer.cs
+/Program/Migrations/20240924191055_düzenleme.Designer.cs
